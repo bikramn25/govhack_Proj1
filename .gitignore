@@ -1,2 +1,12 @@
 node_modules/
 package-lock.json
+client/.next/
+client/node_modules
+client/package-lock.json
+
+server/node_modules
+server/package-lock.json
+
+server/.next/
+/client/.next/
+/server/.next/
